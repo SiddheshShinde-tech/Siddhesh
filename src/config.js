@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'siddhesh.shinde19@st.niituniversity.in',
 
   socialMedia: [
     {
@@ -10,17 +10,17 @@ module.exports = {
       name: 'Instagram',
       url: 'https://www.instagram.com/empathic_guy/',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/bchiang7',
+    // },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/siddheshshinde17/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.codechef.com/users/strive_harder',
     },
   ],
 

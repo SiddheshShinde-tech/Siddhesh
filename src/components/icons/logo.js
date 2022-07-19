@@ -1,46 +1,97 @@
 import React from 'react';
 
 const IconLogo = () => (
-  // <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
-  //   <title>Logo</title>
-  //   <g transform="translate(-8.000000, -2.000000)">
-  //     <g transform="translate(11.000000, 5.000000)">
-  //       {/* <path
-  //         d="M45.691667,45.15 C48.591667,46.1 50.691667,48.95 50.691667,52.2 C50.691667,57.95 46.691667,61 40.291667,61 L28.541667,61 L28.541667,30.3 L39.291667,30.3 C45.691667,30.3 49.691667,33.15 49.691667,38.65 C49.691667,41.95 47.941667,44.35 45.691667,45.15 Z M33.591667,43.2 L39.241667,43.2 C42.791667,43.2 44.691667,41.85 44.691667,38.95 C44.691667,36.05 42.791667,34.8 39.241667,34.8 L33.591667,34.8 L33.591667,43.2 Z M33.591667,47.5 L33.591667,56.5 L40.191667,56.5 C43.691667,56.5 45.591667,54.75 45.591667,52 C45.591667,49.2 43.691667,47.5 40.191667,47.5 L33.591667,47.5 Z"
-  //         fill="currentColor"
-  //       /> */}
+  <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
+    <title>Logo</title>
+    <g transform="translate(-8.000000, -2.000000)">
+      <g transform="translate(11.000000, 5.000000)">
+        {/* <svg
+          xmlns="http://www.w3.org/2000/svg"
+          className=""
+          width="50"
+          height="50"
+          viewBox="0 0 22 22"
+          strokeWidth="2"
+          stroke="currentColor"
+          fill="none"
+          strokeLinecap="round"
+          strokeLinejoin="round">
+          {' '}
+          <path stroke="none" d="M0 0h24v24H0z" fill="none" />{' '}
+          <path d="M17 8a4 4 0 0 0 -4 -4h-2a4 4 0 0 0 0 8h2a4 4 0 0 1 0 8h-2a4 4 0 0 1 -4 -4" />{' '}
+        </svg> */}
 
-  //       <polygon
-  //         id="Shape"
-  //         stroke="currentColor"
-  //         strokeWidth="5"
-  //         strokeLinecap="round"
-  //         strokeLinejoin="round"
-  //         points="39 0 0 22 0 67 39 90 78 68 78 23"
-  //       />
-  //     </g>
+        <text
+          textAnchor="start"
+          fontFamily="Calibre,system,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Segoe UI,Arial,sans-serif"
+          fontSize="60"
+          y="62"
+          x="21"
+          strokewidth="4"
+          stroke="#64FFDA"
+          fill="#64FFDA"
+          data-darkreader-inline-fill=""
+          data-darkreader-inline-stroke="">
+          S
+        </text>
+
+        {/* <path stroke="none" d="M0 0h24v24H0z" fill="none" />{' '}
+        <path d="M17 8a4 4 0 0 0 -4 -4h-2a4 4 0 0 0 0 8h2a4 4 0 0 1 0 8h-2a4 4 0 0 1 -4 -4" />{' '} */}
+        <polygon
+          id="Shape"
+          stroke="currentColor"
+          strokeWidth="5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          points="39 0 0 22 0 67 39 90 78 68 78 23"
+        />
+      </g>
+    </g>
+  </svg>
+
+  // <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 261.021 298.536">
+  //   <g transform="translate(-238.695 -107.379)">
+  //     <text
+  //       transform="translate(293 324)"
+  //       fill="#63ffda"
+  //       fontSize="150"
+  //       fontFamily="SegoeUI-Semibold, Segoe UI"
+  //       fontWeight="600">
+  //       <tspan>&nbsp;S</tspan>
+  //     </text>
+  //     <path
+  //       d="M435.651,850.174l126.064-68.158V637.388L437.036,563.135,310.695,632.124V776.474Z"
+  //       transform="translate(-67 -450)"
+  //       fill="none"
+  //       stroke="#63ffda"
+  //       strokeWidth="10"
+  //     />
   //   </g>
   // </svg>
 
-  <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 261.021 298.536">
-    <g transform="translate(-238.695 -107.379)">
-      <text
-        transform="translate(293 324)"
-        fill="#63ffda"
-        fontSize="150"
-        fontFamily="SegoeUI-Semibold, Segoe UI"
-        fontWeight="600">
-        <tspan>&nbsp;S</tspan>
-      </text>
-      <path
-        d="M435.651,850.174l126.064-68.158V637.388L437.036,563.135,310.695,632.124V776.474Z"
-        transform="translate(-67 -450)"
-        fill="none"
-        stroke="#63ffda"
-        strokeWidth="10"
-      />
-    </g>
-  </svg>
+  // <svg
+  //   xmlns="http://www.w3.org/2000/svg"
+  //   className="icon icon-tabler icon-tabler-letter-s"
+  //   width="10"
+  //   height="10"
+  //   viewBox="0 0 24 24"
+  //   strokeWidth="2"
+  //   stroke="currentColor"
+  //   fill="none"
+  //   strokeLinecap="round"
+  //   strokeLinejoin="round">
+  //   {' '}
+  //   <path stroke="none" d="M0 0h24v24H0z" fill="none" />{' '}
+  //   <path d="M17 8a4 4 0 0 0 -4 -4h-2a4 4 0 0 0 0 8h2a4 4 0 0 1 0 8h-2a4 4 0 0 1 -4 -4" />{' '}
+  //   <polygon
+  //     id="Shape"
+  //     stroke="currentColor"
+  //     strokeWidth="5"
+  //     strokeLinecap="round"
+  //     strokeLinejoin="round"
+  //     points="39 0 0 22 0 67 39 90 78 68 78 23"
+  //   />
+  // </svg>
 );
 
 export default IconLogo;
