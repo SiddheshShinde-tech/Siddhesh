@@ -16,7 +16,7 @@ module.exports = {
     // },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/siddheshshinde17/',
+      url: 'https://www.linkedin.com/in/sid1709/',
     },
     {
       name: 'Codepen',

@@ -137,6 +137,7 @@ const About = () => {
     'MongoDB',
     'Firebase',
     'Open Source Projects',
+    'Git',
   ];
 
   return (
