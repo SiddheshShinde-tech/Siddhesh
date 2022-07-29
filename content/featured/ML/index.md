@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'ML Classfication of Breast Cancer'
-cover: './halcyon.png'
+cover: './breastcancer.png'
 external: 'https://github.com/SiddheshShinde-tech/Siddhesh'
 cta: 'https://github.com/SiddheshShinde-tech/Siddhesh'
 tech:

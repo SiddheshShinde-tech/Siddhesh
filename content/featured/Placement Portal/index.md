@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'NU Placement Portal'
-cover: './demo.png'
+cover: './nu.jpeg'
 # github: 'https://github.com/SiddheshShinde-tech/NU-Placement-Portal'
 external: 'https://github.com/SiddheshShinde-tech/NU-Placement-Portal'
 cta: 'https://github.com/SiddheshShinde-tech/NU-Placement-Portal'
